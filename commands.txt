@@ -1,0 +1,2 @@
+netstat -o -n -a | findstr 0.0:PORT
+taskkill /F /PID XXXXX
